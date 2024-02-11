@@ -1,2 +1,5 @@
-# american-classic-names
-Ever wondered what are the most popular names in the past century? Well, you came to the right place! Join me in exploring a rich dataset and find out how popular your own name has been in the last decades.
+# Popular names in North America
+Have you ever wondered what trends parents follow when naming their kids? What are the most populars? or even how popular is your own name? With the data extracted directly from the Social Security database we can give them an answer easily, which is my proposal with this project. 
+
+![image](https://github.com/JonDFana/american-classic-names/assets/153952266/f73296ab-220f-491c-882b-d1b9c9e9d8cb)
+
